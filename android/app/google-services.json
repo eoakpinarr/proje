@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "395815636857",
+    "project_id": "message-e1972",
+    "storage_bucket": "message-e1972.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395815636857:android:596b619ec530cf1920a9a8",
+        "android_client_info": {
+          "package_name": "com.proje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395815636857-qr2gpgpgq9td5b7nnp4lvtrgt218h4mm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Wf2rRqkOyx5_b3fTaldVNDHgGPsJz6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395815636857-qr2gpgpgq9td5b7nnp4lvtrgt218h4mm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
